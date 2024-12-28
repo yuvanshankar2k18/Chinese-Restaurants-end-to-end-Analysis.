@@ -22,6 +22,9 @@ To interact with the dashboard, download the PBIX file from the repository and o
 # Screenshots of Dashboard:
 ![Screenshot 2024-12-28 142339](https://github.com/user-attachments/assets/7522ebbc-0524-44cd-8362-8d65ca01258a)
 ![Screenshot 2024-12-28 142452](https://github.com/user-attachments/assets/90eb0cea-99c7-4f6d-adc4-43531cdb427b)
+![Uploading Screenshot 2024-12-28 142417.png…]()
+
+
 
 # conlusion:
 
